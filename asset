@@ -1,0 +1,19 @@
+// let wind = data.wind.speed;
+// let feels_like = Math.round(data.main.feels_like);
+// let humidity = data.main.humidity;
+// let pressure = data.main.pressure;
+// let temp_max = Math.round(data.main.temp_max);
+
+// WeatherDataEl.querySelector(".wind").innerHTML = `Wind: ${wind}km/h`;
+// WeatherDataEl.querySelector(
+//   ".feels_like"
+// ).innerHTML = `Feels like: ${feels_like}°C`;
+// WeatherDataEl.querySelector(
+//   ".humidity"
+// ).innerHTML = `Humidity: ${humidity}%`;
+// WeatherDataEl.querySelector(
+//   ".pressure"
+// ).innerHTML = `Pressure: ${pressure}}p`;
+// WeatherDataEl.querySelector(
+//   ".temp_max"
+// ).innerHTML = `Maximum Temperature: ${max}°`;
